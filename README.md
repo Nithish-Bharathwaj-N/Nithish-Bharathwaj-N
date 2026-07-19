@@ -25,7 +25,7 @@ I am a **Cybersecurity student** at the **Chennai Institute of Technology**, pas
 
 - 🎓 **Education:** Cybersecurity @ Chennai Institute of Technology
 - 🌍 **Location:** Tamil Nadu, India
-- 🔭 **Currently Learning:** MERN Stack, Advanced Cybersecurity, Cloud Computing, AI Engineering, System Design
+- 🔭 **Currently Learning:** Advanced MERN Stack, Advanced Cybersecurity, Cloud Computing, AI Engineering, System Design
 - 💡 **Areas of Interest:** Cybersecurity, AI, Full Stack Development, Cloud Computing, Open Source, Linux
 
 ---
@@ -70,10 +70,16 @@ I am a **Cybersecurity student** at the **Chennai Institute of Technology**, pas
 <img width="15" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="Prisma" title="Prisma" />
 
-### Tools & Cybersecurity
+### Cloud
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" title="AWS" />
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" title="Azure" />
+
+### Cybersecurity & Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 <br>
@@ -84,6 +90,44 @@ I am a **Cybersecurity student** at the **Chennai Institute of Technology**, pas
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white" alt="Burp Suite" />
 <img src="https://img.shields.io/badge/Nmap-2C4B79?style=for-the-badge&logoColor=white" alt="Nmap" />
 
+</div>
+
+---
+
+# 💻 LeetCode Journey
+
+<div align="center">
+  <a href="https://leetcode.com/u/nithish_cit/">
+    <img src="https://leetcard.jacoblin.cool/nithish_cit?theme=dark&font=Baloo&ext=contest" alt="LeetCode Stats" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Problems_Solved-513+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problems Solved" />
+  <img src="https://img.shields.io/badge/Contest_Rating-1731-3B82F6?style=for-the-badge&logo=leetcode&logoColor=white" alt="Contest Rating" />
+  <img src="https://img.shields.io/badge/Top-11.62%25-22C55E?style=for-the-badge&logo=leetcode&logoColor=white" alt="Top 11.62%" />
+  <img src="https://img.shields.io/badge/100_Days_Badge-2026-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white" alt="100 Days Badge" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Skill-Dynamic_Programming-8B5CF6?style=for-the-badge" alt="Dynamic Programming" />
+  <img src="https://img.shields.io/badge/Skill-Backtracking-EC4899?style=for-the-badge" alt="Backtracking" />
+  <img src="https://img.shields.io/badge/Skill-Divide_&_Conquer-EF4444?style=for-the-badge" alt="Divide & Conquer" />
+</div>
+
+<br />
+
+<p align="center">
+  With over <b>513+</b> problems solved and <b>655+</b> submissions in the past year, my algorithmic problem-solving journey focuses heavily on optimization techniques like <b>Dynamic Programming</b> and <b>Backtracking</b>.
+</p>
+
+<div align="center">
+  <a href="https://leetcode.com/u/nithish_cit/">
+    <img src="https://img.shields.io/badge/View_LeetCode_Profile-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&color=0D1117&labelColor=0D1117&border=30363D" alt="View LeetCode Profile" />
+  </a>
 </div>
 
 ---
