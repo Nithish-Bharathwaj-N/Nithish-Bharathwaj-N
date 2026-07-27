@@ -181,7 +181,7 @@ I am a **Cybersecurity student** at the **Chennai Institute of Technology**, pas
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics 
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Nithish-Bharathwaj-N&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
