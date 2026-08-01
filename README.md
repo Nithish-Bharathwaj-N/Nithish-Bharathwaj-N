@@ -104,14 +104,15 @@
 
 <div align="center">
 
-| Project | Key Focus & Description | Link |
+| Project | Key Focus & Description | Repository & Live Links |
 | :--- | :--- | :---: |
-| ✈️ **VoyageAI** | AI-powered intelligent travel planning platform generating personalized itineraries and recommendations. | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Nithish-Bharathwaj-N/VoyageAI) |
-| 🏥 **QueueCure AI** | Real-time smart healthcare queue management system with wait-time estimation and Socket.IO live token tracking. | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Nithish-Bharathwaj-N/QueueCure-AI) |
-| 🏫 **Asset Chain** | Campus asset tracking, lifecycle management, and resource allocation platform. | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Nithish-Bharathwaj-N/Asset-Chain) |
-| 🔍 **Veritas AI** | Digital trust, deepfake verification, and media forensics platform. | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Nithish-Bharathwaj-N/Veritas-AI) |
-| 🛡️ **Sentinel AI** | Autonomous cyber risk intelligence and real-time threat surface monitoring platform. | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Nithish-Bharathwaj-N/Sentinel-AI) |
-| 🔑 **Password Strength Checker** | Security utility evaluating credential entropy, complexity, and leak status. | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Nithish-Bharathwaj-N/Password-Strength-Checker) |
+| ✈️ **Voyage AI** | AI-powered intelligent travel planning platform generating personalized itineraries and recommendations. | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Nithish-Bharathwaj-N/Voyage-AI) |
+| 🏥 **Queue Cure AI** | Real-time smart healthcare queue management system with wait-time estimation and Socket.IO live token tracking. | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Nithish-Bharathwaj-N/QUEUE-CURE---AI) |
+| 💼 **FinSight** | AI-driven financial analytics and banking platform providing real-time transaction insights. | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Nithish-Bharathwaj-N/FinSight) [![Demo](https://img.shields.io/badge/Live-Demo-0070F3?style=flat-square&logo=vercel&logoColor=white)](https://fin-sight-banking.vercel.app) |
+| 🛡️ **SentinelX** | Autonomous cyber risk intelligence and real-time threat surface monitoring platform. | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Nithish-Bharathwaj-N/SentinelX) |
+| 🏫 **Asset Chain** | Campus asset tracking, lifecycle management, and resource allocation platform. | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Nithish-Bharathwaj-N/asset-chain) |
+| 🧠 **DayMind AI** | Intelligent daily workflow optimization and cognitive task management application. | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Nithish-Bharathwaj-N/DayMind-AI) |
+| 🌐 **Personal Portfolio** | Modern developer portfolio showcasing projects, credentials, and interactive experiences. | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Nithish-Bharathwaj-N/Portfolio) [![Demo](https://img.shields.io/badge/Live-Demo-0070F3?style=flat-square&logo=vercel&logoColor=white)](https://nithishbharathwajn-portfolio.vercel.app) |
 
 </div>
 
