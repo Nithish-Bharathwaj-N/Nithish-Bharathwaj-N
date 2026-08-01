@@ -52,7 +52,7 @@
 
 ### 🏆 Honors & Hackathon Achievements
 
-- 🥇 **5+ National-Level Hackathon Finalist**: Competed and placed as finalist in major national competitions (*Aerothon, DayMind, MSME, Smart Horizon*).
+- 🥇 **5+ National-Level Hackathon Finalist**: Competed and placed as a finalist in major national-level software and AI hackathons.
 - ⚡ **Competitive Programming Excellence**: Solved **500+ LeetCode problems** with a peak **Contest Rating of 1771** and an active **118-Day Streak**.
 - 🧮 **International Abacus Competition Qualifier**: Cleared state-level selection round to qualify for international rounds.
 - 🏅 **Sports & Leadership**: District-Level Throwball player and Zonal-Level Carrom player.
