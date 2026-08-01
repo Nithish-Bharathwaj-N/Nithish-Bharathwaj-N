@@ -3,6 +3,9 @@
 </div>
 
 <div align="center">
+  <a href="https://nithishbharathwajn-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://github.com/Nithish-Bharathwaj-N">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -34,6 +37,7 @@
 > I am a **Cybersecurity student** at **Chennai Institute of Technology**, passionate about engineering secure, resilient software architectures and exploring the convergence of **Artificial Intelligence**, **Cloud Computing**, and **Ethical Hacking**.
 
 ```yaml
+Portfolio: "https://nithishbharathwajn-portfolio.vercel.app/"
 Location: "Tamil Nadu, India"
 Education: "B.Tech in Cybersecurity @ Chennai Institute of Technology"
 Current Focus: "Advanced MERN, AI Engineering, Cloud Security & System Design"
