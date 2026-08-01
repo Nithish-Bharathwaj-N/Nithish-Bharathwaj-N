@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=70&lines=Hi,+I'm+Nithish+Bharathwaj+N;Cybersecurity+Student+%40+Chennai+Institute+of+Technology;Full+Stack+%26+AI+Engineer;Building+Secure,+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=70&lines=Hi,+I'm+Nithish+Bharathwaj+N;Cybersecurity+%26+AI+Engineer;Full+Stack+Developer;Architecting+Secure,+Scalable+Systems" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -14,14 +14,14 @@
 
 ### 👨‍💻 About Me
 
-> I am a **Cybersecurity Scholar** at **Chennai Institute of Technology**, specializing in engineering secure, high-performance software architectures and exploring the convergence of **Artificial Intelligence**, **Cloud Infrastructure**, and **System Defense**.
+> I am a **Cybersecurity & AI Engineer** specializing in architecting secure, resilient software systems and exploring the convergence of **Artificial Intelligence**, **Cloud Infrastructure**, and **System Defense**.
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h4>📍 Professional Highlights</h4>
       <ul>
-        <li>🎓 <b>Degree:</b> B.Tech in Cybersecurity @ Chennai Institute of Technology</li>
+        <li>🎓 <b>Specialization:</b> Cybersecurity & AI Systems Engineering</li>
         <li>📍 <b>Location:</b> Tamil Nadu, India</li>
         <li>🌐 <b>Portfolio:</b> <a href="https://nithishbharathwajn-portfolio.vercel.app/">nithishbharathwajn-portfolio.vercel.app</a></li>
         <li>🚀 <b>Active Focus:</b> System Architecture, AI-Driven Security, Full Stack Development</li>
