@@ -42,6 +42,21 @@
 
 ---
 
+### 💡 Core Engineering Pillars
+
+<div align="center">
+
+| Pillar | Engineering Philosophy & Focus |
+| :--- | :--- |
+| 🛡️ **Zero-Trust & Defense-in-Depth** | Prioritizing secure-by-design architectures, credential entropy analysis, input sanitization, and automated threat monitoring across all applications. |
+| 🤖 **AI-Driven Autonomy** | Integrating LLMs, agentic workflows, and predictive analytics into real-world applications (*VoyageAI, QueueCure AI, Veritas AI*). |
+| ⚡ **Algorithmic Rigor** | Applying mathematical optimization, Dynamic Programming, and Graph algorithms to achieve high efficiency and low latency. |
+| ☁️ **Scalable Infrastructure** | Building modular microservices using Docker, AWS, PostgreSQL, and Linux kernels with CI/CD automation. |
+
+</div>
+
+---
+
 ### 🛠️ Tech Stack & Capabilities
 
 <div align="center">
@@ -75,7 +90,7 @@
 
 ---
 
-### 🧩 Algorithmic & Problem Solving Profile
+### 🏆 Achievements & Algorithmic Excellence
 
 <p align="center">
   <a href="https://leetcode.com/u/nithish_cit/"><img src="https://leetcard.jacoblin.cool/nithish_cit?theme=dark&font=Fira+Code&ext=contest" alt="LeetCode Stats Card" /></a>
@@ -88,9 +103,14 @@
   <img src="https://img.shields.io/badge/100_Days_Badge-2026-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white" alt="100 Days Badge" />
 </div>
 
-<p align="center">
-  Proven problem-solving capabilities with <b>513+ LeetCode problems solved</b> and <b>655+ submissions</b>, specializing in <b>Dynamic Programming</b>, <b>Backtracking</b>, <b>Graph Theory</b>, and <b>System Optimization</b>.
-</p>
+```yaml
+Highlights:
+  LeetCode Problems Solved: 513+
+  Submissions in Past Year: 655+
+  Global Percentile Rank: Top 11.62%
+  Contest Peak Rating: 1731
+  Core Strengths: "Dynamic Programming, Backtracking, Graph Algorithms, Divide & Conquer"
+```
 
 ---
 
@@ -118,6 +138,18 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithish-Bharathwaj-N&bg_color=0D1117&color=C9D1D9&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph" />
 </div>
+
+---
+
+### 🤝 Let's Connect & Collaborate
+
+> I am always open to collaborating on **Cybersecurity Engineering**, **AI/Agentic Systems**, **Open-Source Tools**, and **High-Scalability Infrastructure**.
+
+<p align="center">
+  <a href="mailto:nithishbharathwajn@gmail.com"><img src="https://img.shields.io/badge/Get_In_Touch-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" /></a>
+  <a href="https://www.linkedin.com/in/nithish-bharathwaj-n-847a00379"><img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect LinkedIn" /></a>
+  <a href="https://nithishbharathwajn-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Explore-Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Portfolio" /></a>
+</p>
 
 ---
 
