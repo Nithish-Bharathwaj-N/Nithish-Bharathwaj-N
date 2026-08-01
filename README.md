@@ -21,7 +21,8 @@
     <td width="50%" valign="top">
       <h4>📍 Professional Highlights</h4>
       <ul>
-        <li>🎓 <b>Specialization:</b> Cybersecurity & AI Systems Engineering</li>
+        <li>🎓 <b>Education:</b> B.Tech in Cybersecurity @ Chennai Institute of Technology</li>
+        <li>💡 <b>Specialization:</b> Cybersecurity & AI Systems Engineering</li>
         <li>📍 <b>Location:</b> Tamil Nadu, India</li>
         <li>🌐 <b>Portfolio:</b> <a href="https://nithishbharathwajn-portfolio.vercel.app/">nithishbharathwajn-portfolio.vercel.app</a></li>
         <li>🚀 <b>Active Focus:</b> System Architecture, AI-Driven Security, Full Stack Development</li>
