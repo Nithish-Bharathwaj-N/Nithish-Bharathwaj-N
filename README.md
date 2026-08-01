@@ -2,23 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&height=80&lines=Hi,+I'm+Nithish+Bharathwaj+N;Cybersecurity+Student+%40+CIT;AI+%26+Full+Stack+Developer;Building+Secure+%26+Scalable+Systems" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <a href="https://nithishbharathwajn-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/Nithish-Bharathwaj-N">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/nithish-bharathwaj-n-847a00379">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nithishbharathwajn@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://leetcode.com/u/nithish_cit/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-</div>
+<p align="center">
+  <a href="https://nithishbharathwajn-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/Nithish-Bharathwaj-N"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/nithish-bharathwaj-n-847a00379"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:nithishbharathwajn@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://leetcode.com/u/nithish_cit/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+</p>
 
 <br />
 
@@ -103,11 +93,9 @@ Core Interests: "Cybersecurity, AI/ML, Full Stack Web Dev, Cloud Architecture, L
 
 ### 🧩 Algorithmic & Problem Solving Journey
 
-<div align="center">
-  <a href="https://leetcode.com/u/nithish_cit/">
-    <img src="https://leetcard.jacoblin.cool/nithish_cit?theme=dark&font=Fira+Code&ext=contest" alt="LeetCode Stats Card" />
-  </a>
-</div>
+<p align="center">
+  <a href="https://leetcode.com/u/nithish_cit/"><img src="https://leetcard.jacoblin.cool/nithish_cit?theme=dark&font=Fira+Code&ext=contest" alt="LeetCode Stats Card" /></a>
+</p>
 
 <br />
 
