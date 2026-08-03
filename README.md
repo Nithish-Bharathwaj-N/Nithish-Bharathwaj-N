@@ -12,7 +12,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me 
 
 > Full-Stack Developer and **Cybersecurity Engineering Scholar** at **Chennai Institute of Technology**. Passionate about building AI-powered real-time systems, secure software architectures, and solving complex algorithmic challenges.
 
